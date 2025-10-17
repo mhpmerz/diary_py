@@ -1,0 +1,11 @@
+[project]
+name = "diary_py"
+version = "0.1"
+readme = "README.md"
+requires-python = ">3.14"
+dependencies = [
+    "pyinstaller",
+    "customtkinter",
+]
+license = "GNU General Public License v3.0"
+license-files = ["LICENSE"]
